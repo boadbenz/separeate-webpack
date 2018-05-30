@@ -1,4 +1,4 @@
-# separeate-webpack
+# separate-webpack
 separate-webpack
 
 ใน package.json
